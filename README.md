@@ -12,7 +12,9 @@
   <img height="90cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="90cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="90cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height="90cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                  
+  <img height="90cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
+  
+  ![Snake animation](https://github.com/jrxr/jrxr/blob/output/github-contribution-grid-snake.svg)
 </div> 
 
 
